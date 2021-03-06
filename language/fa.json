@@ -1,0 +1,385 @@
+{
+  "semantics": [
+    {
+      "fields": [
+        {
+          "field": {
+            "fields": [
+              {
+                "field": {
+                  "fields": [
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {
+                      "label": "یادداشت‌ها",
+                      "description": "یادداشت‌ها وقتی نمایش داده می‌شوند که کاربر پاسخ‌های پیشنهادی برای همه اسلایدها را به نمایش می‌گذارد."
+                    },
+                    {
+                      "label": "همیشه یادداشت‌ها را نمایش بده"
+                    },
+                    {
+                      "label": "تیرگی پس‌زمینه"
+                    },
+                    {
+                      "label": "نمایش به عنوان دکمه"
+                    },
+                    {
+                      "label": "اندازه دکمه",
+                      "options": [
+                        {
+                          "label": "کوچک"
+                        },
+                        {
+                          "label": "بزرگ"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "عنوان"
+                    },
+                    {
+                      "label": "برو به",
+                      "options": [
+                        {
+                          "label": ""
+                        },
+                        {
+                          "label": ""
+                        },
+                        {
+                          "label": ""
+                        }
+                      ]
+                    },
+                    {
+                      "label": "",
+                      "description": ""
+                    },
+                    {
+                      "label": "",
+                      "description": ""
+                    }
+                  ]
+                }
+              },
+              {},
+              {
+                "fields": [
+                  {
+                    "label": "",
+                    "description": ""
+                  },
+                  {
+                    "label": "",
+                    "default": ""
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {},
+        {
+          "label": ""
+        },
+        {
+          "label": ""
+        },
+        {
+          "label": ""
+        },
+        {
+          "label": ""
+        },
+        {
+          "fields": [
+            {
+              "label": "",
+              "description": ""
+            },
+            {
+              "label": "",
+              "default": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "",
+      "fields": [
+        {
+          "label": "",
+          "default": ""
+        },
+        {
+          "label": "",
+          "default": ""
+        },
+        {
+          "label": "",
+          "default": ""
+        },
+        {
+          "label": "",
+          "default": ""
+        },
+        {
+          "label": "",
+          "default": ""
+        },
+        {
+          "label": "",
+          "default": ""
+        },
+        {
+          "label": "",
+          "default": ""
+        },
+        {
+          "label": "",
+          "default": ""
+        },
+        {
+          "label": "",
+          "default": ""
+        },
+        {
+          "label": "",
+          "default": ""
+        },
+        {
+          "label": "",
+          "default": ""
+        },
+        {
+          "label": "",
+          "default": ""
+        },
+        {
+          "label": "",
+          "default": ""
+        },
+        {
+          "label": "",
+          "default": ""
+        },
+        {
+          "label": "",
+          "default": ""
+        },
+        {
+          "label": "",
+          "default": ""
+        },
+        {
+          "label": "",
+          "default": ""
+        },
+        {
+          "label": "",
+          "default": ""
+        },
+        {
+          "label": "",
+          "default": ""
+        },
+        {
+          "label": "",
+          "default": ""
+        },
+        {
+          "label": "",
+          "default": ""
+        },
+        {
+          "label": "",
+          "default": ""
+        },
+        {
+          "label": "",
+          "default": ""
+        },
+        {
+          "label": "",
+          "default": ""
+        },
+        {
+          "label": "",
+          "default": ""
+        },
+        {
+          "label": "",
+          "default": ""
+        },
+        {
+          "label": "",
+          "default": ""
+        },
+        {
+          "label": "",
+          "default": ""
+        },
+        {
+          "label": "",
+          "default": ""
+        },
+        {
+          "label": "",
+          "default": ""
+        },
+        {
+          "label": "",
+          "default": ""
+        },
+        {
+          "label": "",
+          "default": ""
+        },
+        {
+          "label": "",
+          "default": ""
+        },
+        {
+          "label": "",
+          "default": ""
+        },
+        {
+          "label": "",
+          "default": ""
+        },
+        {
+          "label": "",
+          "default": ""
+        },
+        {
+          "label": "",
+          "default": ""
+        },
+        {
+          "label": "",
+          "default": ""
+        },
+        {
+          "label": "",
+          "default": ""
+        },
+        {
+          "label": "",
+          "default": "",
+          "description": ""
+        },
+        {
+          "label": "",
+          "default": ""
+        },
+        {
+          "label": "",
+          "default": ""
+        }
+      ]
+    },
+    {
+      "label": "",
+      "description": "",
+      "fields": [
+        {
+          "label": "",
+          "description": ""
+        },
+        {
+          "label": "",
+          "description": ""
+        },
+        {
+          "label": "",
+          "description": "",
+          "options": [
+            {
+              "label": ""
+            },
+            {
+              "label": ""
+            }
+          ]
+        },
+        {
+          "label": "",
+          "description": "",
+          "options": [
+            {
+              "label": ""
+            },
+            {
+              "label": ""
+            }
+          ]
+        },
+        {
+          "label": "",
+          "description": ""
+        },
+        {
+          "label": "",
+          "description": ""
+        },
+        {
+          "label": "",
+          "description": ""
+        },
+        {
+          "label": "",
+          "description": "",
+          "fields": [
+            {
+              "label": ""
+            },
+            {
+              "label": "",
+              "fields": [
+                {
+                  "label": "",
+                  "default": ""
+                },
+                {
+                  "label": "",
+                  "default": ""
+                }
+              ]
+            },
+            {
+              "label": ""
+            },
+            {
+              "label": "",
+              "fields": [
+                {
+                  "label": "",
+                  "default": ""
+                },
+                {
+                  "label": "",
+                  "default": ""
+                },
+                {
+                  "label": "",
+                  "default": ""
+                }
+              ]
+            },
+            {
+              "label": ""
+            },
+            {
+              "label": "",
+              "default": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
